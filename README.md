@@ -1,6 +1,6 @@
-## Hi there 👋
 
-# Project Title
+
+# Hello, My name is Obi, my friends call me Shynobi 👋 :ninja:
 
 Simple overview of use/purpose.
 
